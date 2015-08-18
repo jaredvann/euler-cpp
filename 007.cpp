@@ -35,5 +35,3 @@ int main(int argc, char const *argv[]) {
         i++;
     }
 }
-
-// Answer = 104743

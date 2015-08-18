@@ -31,5 +31,3 @@ int main(int argc, char const *argv[]) {
     cout << l << '\n';
     return 0;
 }
-
-// Answer = 23514624000

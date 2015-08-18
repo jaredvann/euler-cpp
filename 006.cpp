@@ -26,5 +26,3 @@ int main(int argc, char const *argv[]) {
 
     cout << sum2*sum2 - sum1 << '\n';
 }
-
-// Answer = 25164150

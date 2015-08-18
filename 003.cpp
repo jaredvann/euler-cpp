@@ -31,5 +31,3 @@ int main(int argc, char const *argv[]) {
         }
     }
 }
-
-// Answer = 6857

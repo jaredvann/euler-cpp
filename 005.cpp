@@ -24,5 +24,3 @@ int main(int argc, char const *argv[]) {
             i=i;
     }
 }
-
-// Answer = 232792560

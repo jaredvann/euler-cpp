@@ -32,5 +32,3 @@ int main(int argc, char const *argv[]) {
     cout << sum << '\n';
     return 0;
 }
-
-// Answer = 4613732
